@@ -1,0 +1,37 @@
+body {
+    background: black
+}
+.post {
+    width: 600px;
+    margin: 0 auto;
+    background: white;
+}
+
+.post-header {
+    font-family: 'Roboto-type', sans-serif; 
+    padding: 10px;
+    display: flex;
+}
+
+.post-img img {
+    width: 100%;
+}
+.post-icons { 
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.post-container { 
+    padding: 10px;
+    font-family: 'Roboto-type', sans-serif;
+    
+}
+.right-side {
+    text-align: right;
+    display: inline-block;
+    width: 80%;
+}
+span {
+    font-size: 50px;
+}
